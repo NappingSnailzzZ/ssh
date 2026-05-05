@@ -1,0 +1,50 @@
+# 비밀키 / 환경변수
+.env
+*.key
+*.pem
+*.secret
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+a.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# 리버싱 도구 관련(IDA, Ghidra 등)
+*.idb
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.rep/
+*.GhidraProject/
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / 에디터 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 기타
+*.log
+*.tmp
+*.bak
