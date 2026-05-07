@@ -23,5 +23,3 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 #### 3. 해결
 
 fingerprint 확인에 yes 입력 후, 비밀번호 bandit0 입력하여 접속 성공
-
-![alt text](image.png)
